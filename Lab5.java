@@ -1,4 +1,4 @@
-mmmpublic class Lab5{
+dddddmmmpublic class Lab5{
 	public static void main(String[] args){
 		
  
